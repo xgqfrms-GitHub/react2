@@ -1,5 +1,9 @@
-# react2
-A declarative, efficient, and flexible JavaScript library for building user interfaces.
+# react2 docs
+一个声明式、高效和灵活的, 用于构建用户界面的JavaScript库。
+
+[http://react2.webgeeker.xyz](http://react2.webgeeker.xyz)
+
+[https://web.archive.org/web/20161024204055/http://react2.webgeeker.xyz/](https://web.archive.org/web/20161024204055/http://react2.webgeeker.xyz/)
 
 
-react2.webgeeker.xyz
+
