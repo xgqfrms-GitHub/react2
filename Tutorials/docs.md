@@ -1,6 +1,7 @@
 
 https://github.com/xgqfrms-GitHub/react2/tree/gh-pages/docs
 
+```md
 
 React  文档 支持 下载 博客  
 
@@ -55,3 +56,5 @@ ga('create', 'UA-86246022-1', 'react2.webgeeker.xyz');
     <script src="../js/babel.min.js"></script>
     <script src="../js/live_editor.js"></script>
 </head>
+
+```
