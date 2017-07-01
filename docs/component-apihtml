@@ -13,47 +13,48 @@
   <meta property="og:description" content="A JavaScript library for building user interfaces">
   <meta property="fb:app_id" content="623268441017527">
 
-  <link rel="shortcut icon" href="/react/favicon.ico">
+  <link rel="shortcut icon" href="../favicon.ico">
   <link rel="alternate" type="application/rss+xml" title="React" href="https://facebook.github.io/react/feed.xml">
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css" />
-  <link rel="stylesheet" href="/react/css/syntax.css">
-  <link rel="stylesheet" href="/react/css/codemirror.css">
-  <link rel="stylesheet" href="/react/css/react.css">
+  <link rel="stylesheet" href="../css/syntax.css">
+  <link rel="stylesheet" href="../css/codemirror.css">
+  <link rel="stylesheet" href="../css/react.css">
 
   <script src="//use.typekit.net/vqa1hcx.js"></script>
   <script>try{Typekit.load();}catch(e){}</script>
 
   <!--[if lte IE 8]>
-  <script src="/react/js/html5shiv.min.js"></script>
-  <script src="/react/js/es5-shim.min.js"></script>
-  <script src="/react/js/es5-sham.min.js"></script>
+  <script src="../js/html5shiv.min.js"></script>
+  <script src="../js/es5-shim.min.js"></script>
+  <script src="../js/es5-sham.min.js"></script>
   <![endif]-->
   <script type="text/javascript" src="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.js"></script>
-  <script src="/react/js/codemirror.js"></script>
-  <script src="/react/js/javascript.js"></script>
-  <script src="/react/js/xml.js"></script>
-  <script src="/react/js/jsx.js"></script>
-  <script src="/react/js/react.js"></script>
-  <script src="/react/js/react-dom.js"></script>
-  <script src="/react/js/babel.min.js"></script>
-  <script src="/react/js/live_editor.js"></script>
+  <script src="../js/codemirror.js"></script>
+  <script src="../js/javascript.js"></script>
+  <script src="../js/xml.js"></script>
+  <script src="../js/jsx.js"></script>
+  <script src="../js/react.js"></script>
+  <script src="../js/react-dom.js"></script>
+  <script src="../js/babel.min.js"></script>
+  <script src="../js/live_editor.js"></script>
 </head>
 <body>
 
   <div class="container">
 
+
     <div class="nav-main">
       <div class="wrap">
-        <a class="nav-home" href="/react/index.html">
-          <img class="nav-logo" src="/react/img/logo.svg" width="36" height="36">
+        <a class="nav-home" href="../index.html">
+          <img class="nav-logo" src="../img/logo.svg" width="36" height="36">
           React
         </a>
         <ul class="nav-site nav-site-internal">
-          <li><a href="/react/docs/getting-started.html" class="active">Docs</a></li>
-          <li><a href="/react/support.html">Support</a></li>
-          <li><a href="/react/downloads.html">Download</a></li>
-          <li><a href="/react/blog/">Blog</a></li>
+          <li><a href="../docs/getting-started.html" class="active">文档</a></li>
+          <li><a href="../support.html">支持</a></li>
+          <li><a href="../downloads.html">下载</a></li>
+          <li><a href="../blog/">博客</a></li>
           <li>
             <input id="algolia-doc-search" type="text" placeholder="Search docs..." />
           </li>
@@ -66,60 +67,60 @@
       </div>
     </div>
 
-    
 
-    <section class="content wrap documentationContent">
-  <div class="nav-docs">
-  <!-- Docs Nav -->
-  
     <div class="nav-docs-section">
-      <h3>Quick Start</h3>
+      <h3>快速开始</h3>
       <ul>
         
           <li>
-            <a href="/react/docs/getting-started.html">Getting Started</a>
+            <a href="../docs/getting-started.html">入门</a>
             
           </li>
         
           <li>
-            <a href="/react/docs/tutorial.html">Tutorial</a>
+            <a href="../docs/tutorial.html">教程</a>
             
           </li>
         
           <li>
-            <a href="/react/docs/thinking-in-react.html">Thinking in React</a>
+            <a href="../docs/thinking-in-react.html">思考React</a>
+            
+          </li>
+        
+      </ul>
+    </div>
+
+
+    <div class="nav-docs-section">
+      <h3>社区资源</h3>
+      <ul>
+        
+          <li>
+            <a href="../docs/conferences.html">会议</a>
+            
+          </li>
+        
+          <li>
+            <a href="../docs/videos.html">视频</a>
+            
+          </li>
+        
+          <li>
+            <a href="https://github.com/facebook/react/wiki/Complementary-Tools" class="external">附加工具</a>
+            
+          </li>
+        
+          <li>
+            <a href="https://github.com/facebook/react/wiki/Examples" class="external">例子</a>
             
           </li>
         
       </ul>
     </div>
   
-    <div class="nav-docs-section">
-      <h3>Community Resources</h3>
-      <ul>
-        
-          <li>
-            <a href="/react/docs/conferences.html">Conferences</a>
-            
-          </li>
-        
-          <li>
-            <a href="/react/docs/videos.html">Videos</a>
-            
-          </li>
-        
-          <li>
-            <a href="https://github.com/facebook/react/wiki/Complementary-Tools" class="external">Complementary Tools</a>
-            
-          </li>
-        
-          <li>
-            <a href="https://github.com/facebook/react/wiki/Examples" class="external">Examples</a>
-            
-          </li>
-        
-      </ul>
-    </div>
+
+  
+
   
     <div class="nav-docs-section">
       <h3>Guides</h3>
